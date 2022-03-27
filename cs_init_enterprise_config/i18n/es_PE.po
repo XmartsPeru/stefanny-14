@@ -1,0 +1,735 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* cs_init_enterprise_config
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-18 16:37+0000\n"
+"PO-Revision-Date: 2021-12-18 16:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_1071
+msgid "1071 - ELABORACIÓN DE PRODUCTOS DE PANADERÍA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_111
+msgid ""
+"111 - CULTIVO DE CEREALES (EXCEPTO ARROZ), LEGUMBRES Y SEMILLAS OLEAGINOSAS "
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_1410
+msgid "1410"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_1520
+msgid "1520"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_162
+msgid "162 - ACTIVIDADES DE APOYO A LA GANADERÍA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_1811
+msgid "1811"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_1812
+msgid "1812 - ACTIVIDADES DE SERVICIOS RELACIONADAS CON LA IMPRESIÓN"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_2511
+msgid "2511"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_3100
+msgid "3100"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4100
+msgid "4100 - CONSTRUCCIÓN DE EDIFICIOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4321
+msgid "4321"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4330
+msgid "4330"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4520
+msgid "4520"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4530
+msgid "4530"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4610
+msgid "4610"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4630
+msgid "4630"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4641
+msgid "4641"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4663
+msgid "4663"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4690
+msgid "4690"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4711
+msgid "4711"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4719
+msgid "4719"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4721
+msgid "4721"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4730
+msgid "4730"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4751
+msgid "4751"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4752
+msgid "4752"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4753
+msgid "4753"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4759
+msgid "4759"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4772
+msgid "4772"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4781
+msgid "4781"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4799
+msgid "4799"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4921
+msgid "4921"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4922
+msgid "4922"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_4923
+msgid "4923"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_5510
+msgid "5510 - ACTIVIDADES DE ALOJAMIENTO PARA ESTANCIAS CORTAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_5610
+msgid "5610 - ACTIVIDADES DE RESTAURANTES Y DE SERVICIO MÓVIL DE COMIDAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_6020
+msgid "6020"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_6201
+msgid "6201"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_6209
+msgid "6209"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_6311
+msgid "6311"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_6810
+msgid ""
+"6810 - ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_6910
+msgid "6910 - ACTIVIDADES JURÍDICAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_6920
+msgid ""
+"6920 - ACTIVIDADES DE CONTABILIDAD, TENEDURÍA DE LIBROS Y AUDITORÍA; "
+"ASESORAMIENTO EN MATERIA DE IMPUESTOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_7020
+msgid "7020 - ACTIVIDADES DE CONSULTORÍA DE GESTIÓN"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_7110
+msgid ""
+"7110 - ACTIVIDADES DE ARQUITECTURA E INGENIERÍA Y ACTIVIDADES CONEXAS DE "
+"CONSULTORÍA TÉCNICA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_7220
+msgid "7220"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_7310
+msgid "7310"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_7911
+msgid "7911 - ACTIVIDADES DE AGENCIAS DE VIAJES"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8020
+msgid "8020 - ACTIVIDADES DE SERVICIO DE SISTEMAS DE SEGURIDAD"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8129
+msgid "8129"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8299
+msgid "8299"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8411
+msgid "8411 - ACTIVIDADES DE LA ADMINISTRACIÓN PÚBLICA EN GENERAL"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8510
+msgid "8510"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8521
+msgid "8521"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8530
+msgid "8530"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8549
+msgid "8549"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8620
+msgid "8620 - ACTIVIDADES DE MÉDICOS Y ODONTÓLOGOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_8690
+msgid "8690"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_9000
+msgid "9000 - ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO "
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_9312
+msgid "9312 - ACTIVIDADES DE CLUBES DEPORTIVOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_9499
+msgid "9499 - ACTIVIDADES DE OTRAS ASOCIACIONES N.C.P."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_9511
+msgid "9511"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_9522
+msgid "9522"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,full_name:cs_init_enterprise_config.ind_9602
+msgid "9602"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_9000
+msgid "ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_7911
+msgid "ACTIVIDADES DE AGENCIAS DE VIAJES"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_5510
+msgid "ACTIVIDADES DE ALOJAMIENTO PARA ESTANCIAS CORTAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_162
+msgid "ACTIVIDADES DE APOYO A LA GANADERÍA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_7110
+msgid ""
+"ACTIVIDADES DE ARQUITECTURA E INGENIERÍA Y ACTIVIDADES CONEXAS DE "
+"CONSULTORÍA TÉCNICA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_9312
+msgid "ACTIVIDADES DE CLUBES DEPORTIVOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_7020
+msgid "ACTIVIDADES DE CONSULTORÍA DE GESTIÓN"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_6920
+msgid ""
+"ACTIVIDADES DE CONTABILIDAD, TENEDURÍA DE LIBROS Y AUDITORÍA; ASESORAMIENTO "
+"EN MATERIA DE IMPUESTOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8411
+msgid "ACTIVIDADES DE LA ADMINISTRACIÓN PÚBLICA EN GENERAL"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8620
+msgid "ACTIVIDADES DE MÉDICOS Y ODONTÓLOGOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_9499
+msgid "ACTIVIDADES DE OTRAS ASOCIACIONES N.C.P."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_5610
+msgid "ACTIVIDADES DE RESTAURANTES Y DE SERVICIO MÓVIL DE COMIDAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8020
+msgid "ACTIVIDADES DE SERVICIO DE SISTEMAS DE SEGURIDAD"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_1812
+msgid "ACTIVIDADES DE SERVICIOS RELACIONADAS CON LA IMPRESIÓN"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_6810
+msgid "ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_6910
+msgid "ACTIVIDADES JURÍDICAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.country.group,name:cs_init_enterprise_config.abroad
+msgid "Abroad"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.country.group,name:cs_init_enterprise_config.can
+msgid "Andean Community"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4100
+msgid "CONSTRUCCIÓN DE EDIFICIOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_111
+msgid "CULTIVO DE CEREALES (EXCEPTO ARROZ), LEGUMBRES Y SEMILLAS OLEAGINOSAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:ir.model.fields,field_description:cs_init_enterprise_config.field_product_product__display_name
+#: model:ir.model.fields,field_description:cs_init_enterprise_config.field_product_template__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_1071
+msgid "ELABORACIÓN DE PRODUCTOS DE PANADERÍA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8510
+msgid "ENSEÑANZA PRE-ESCOLAR Y PRIMARIA."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8521
+msgid "ENSEÑANZA SECUNDARIA DE FORMACIÓN GENERAL."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8530
+msgid "ENSEÑANZA SUPERIOR."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_1520
+msgid "FABRICACIÓN DE CALZADO"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_3100
+msgid "FABRICACIÓN DE MUEBLES"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_1410
+msgid "FABRICACIÓN DE PRENDAS DE VESTIR, EXCEPTO PRENDAS DE PIEL"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_2511
+msgid "FABRICACIÓN DE PRODUCTOS METÁLICOS PARA USO ESTRUCTURAL"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:ir.model.fields,field_description:cs_init_enterprise_config.field_product_product__id
+#: model:ir.model.fields,field_description:cs_init_enterprise_config.field_product_template__id
+msgid "ID"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_1811
+msgid "IMPRESIÓN"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4321
+msgid "INSTALACIONES ELÉCTRICAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_7220
+msgid ""
+"INVESTIGACIONES Y DESARROLLO EXPERIMENTAL EN EL CAMPO DE LAS CIENCIAS "
+"SOCIALES Y LAS HUMANIDADES."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:ir.model.fields,field_description:cs_init_enterprise_config.field_product_template__default_code
+msgid "Internal Reference"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:ir.model.fields,field_description:cs_init_enterprise_config.field_product_product____last_update
+#: model:ir.model.fields,field_description:cs_init_enterprise_config.field_product_template____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4520
+msgid "MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8690
+msgid "OTRAS ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8129
+msgid ""
+"OTRAS ACTIVIDADES DE LIMPIEZA DE EDIFICIOS E INSTALACIONES INDUSTRIALES"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8299
+msgid "OTRAS ACTIVIDADES DE SERVICIOS DE APOYO A LAS EMPRESAS N.C.P"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4799
+msgid ""
+"OTRAS ACTIVIDADES DE VENTA AL POR MENOR NO REALIZADAS EN COMERCIOS, PUESTOS "
+"DE VENTA O MERCADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_6209
+msgid "OTROS SERVICIOS INFORMÁTICOS Y DE TECNOLOGÍAS DE LA INFORMACIÓN."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_8549
+msgid "OTROS TIPOS DE ENSEÑANZA N.C.P."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4922
+msgid "OTROS TIPOS DE TRANSPORTE NO REGULAR DE PASAJEROS POR VÍA TERRESTRE."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_9602
+msgid "PELUQUERÍA Y OTROS TRATAMIENTOS DE BELLEZA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_6311
+msgid "PROCESAMIENTO DE DATOS, HOSPEDAJE Y ACTIVIDADES CONEXAS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_6201
+msgid "PROGRAMACIÓN INFORMÁTICA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_6020
+msgid "PROGRAMACIÓN Y TRANSMISIONES DE TELEVISIÓN"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_7310
+msgid "PUBLICIDAD."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:ir.model,name:cs_init_enterprise_config.model_product_product
+msgid "Product"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:ir.model,name:cs_init_enterprise_config.model_product_template
+msgid "Product Template"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_9522
+msgid ""
+"REPARACIÓN DE APARATOS DE USO DOMÉSTICO Y EQUIPO DOMÉSTICO Y DE JARDINERÍA"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_9511
+msgid "REPARACIÓN DE ORDENADORES Y EQUIPO PERIFÉRICO"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4330
+msgid "TERMINACIÓN Y ACABADO DE EDIFICIOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4923
+msgid "TRANSPORTE DE CARGA POR CARRETERA."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4921
+msgid "TRANSPORTE URBANO Y SUBURBANO DE PASAJEROS POR VÍA TERRESTRE"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4610
+msgid "VENTA AL POR MAYOR A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4630
+msgid "VENTA AL POR MAYOR DE ALIMENTOS, BEBIDAS Y TABACO."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4663
+msgid ""
+"VENTA AL POR MAYOR DE MATERIALES DE CONSTRUCCIÓN, ARTÍCULOS DE FERRETERÍA Y "
+"EQUIPO Y MATERIALES DE FONTANERÍA Y CALEFACCIÓN."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4641
+msgid "VENTA AL POR MAYOR DE PRODUCTOS TEXTILES, PRENDAS DE VESTIR Y CALZADO."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4690
+msgid "VENTA AL POR MAYOR NO ESPECIALIZADA."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4721
+msgid "VENTA AL POR MENOR DE ALIMENTOS EN COMERCIOS ESPECIALIZADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4781
+msgid ""
+"VENTA AL POR MENOR DE ALIMENTOS, BEBIDAS Y TABACO EN PUESTOS DE VENTA Y "
+"MERCADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4759
+msgid ""
+"VENTA AL POR MENOR DE APARATOS ELÉCTRICOS DE USO DOMÉSTICO, MUEBLES, EQUIPO "
+"DE ILUMINACIÓN Y OTROS ENSERES DOMÉSTICOS EN COMERCIOS ESPECIALIZADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4752
+msgid ""
+"VENTA AL POR MENOR DE ARTÍCULOS DE FERRETERÍA, PINTURAS Y PRODUCTOS DE "
+"VIDRIO EN ALMACENES ESPECIALIZADOS."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4730
+msgid ""
+"VENTA AL POR MENOR DE COMBUSTIBLE PARA VEHÍCULOS AUTOMOTORES EN ALMACENES "
+"ESPECIALIZADOS."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4719
+msgid "VENTA AL POR MENOR DE OTROS PRODUCTOS EN ALMACENES NO ESPECIALIZADOS."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4772
+msgid ""
+"VENTA AL POR MENOR DE PRODUCTOS FARMACÉUTICOS Y MEDICINALES, COSMÉTICOS Y "
+"ARTÍCULOS DE TOCADOR EN ALMACENES ESPECIALIZADOS."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4751
+msgid "VENTA AL POR MENOR DE PRODUCTOS TEXTILES EN COMERCIOS ESPECIALIZADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4753
+msgid ""
+"VENTA AL POR MENOR DE TAPICES, ALFOMBRAS Y CUBRIMIENTOS PARA PAREDES Y PISOS"
+" EN COMERCIOS ESPECIALIZADOS"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4711
+msgid ""
+"VENTA AL POR MENOR EN ALMACENES NO ESPECIALIZADOS CON SURTIDO COMPUESTO "
+"PRINCIPALMENTE DE ALIMENTOS, BEBIDAS Y TABACO."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#: model:res.partner.industry,name:cs_init_enterprise_config.ind_4530
+msgid "VENTAS DE PARTES, PIEZAS Y ACCESORIOS DE VEHÍCULOS AUTOMOTORES."
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#. openerp-web
+#: code:addons/cs_init_enterprise_config/static/src/xml/templates.xml:0
+#, python-format
+msgid "o_cp_bottom_left o_web_xmpe_fab"
+msgstr ""
+
+#. module: cs_init_enterprise_config
+#. openerp-web
+#: code:addons/cs_init_enterprise_config/static/src/xml/templates.xml:0
+#, python-format
+msgid "state.showSearchBar ? 'fa-chevron-right' : 'fa-search'"
+msgstr ""

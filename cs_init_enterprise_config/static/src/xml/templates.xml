@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<templates id="template" xml:space="preserve">
+
+    <t t-inherit="web_enterprise.ControlPanel" t-inherit-mode="extension" owl="1">
+        <xpath expr="//div[@class='o_cp_bottom']/div[1]" position="attributes">
+            <attribute name="class">o_cp_bottom_left o_web_xmpe_fab</attribute>
+        </xpath>
+        <xpath expr="//button[@class='o_enable_searchview btn btn-link fa']" position="attributes">
+            <attribute name="t-att-class">state.showSearchBar ? 'fa-chevron-right' : 'fa-search'</attribute>
+        </xpath>
+        <xpath expr="//button[@class='o_enable_searchview btn btn-link fa']" position="after">
+            <button type="button" class="o_enable_searchview btn btn-link fa fa-chevron-right"
+                    t-if="!props.withBreadcrumbs and !state.enableSearchView"
+                    t-on-click.stop="state.enableSearchView = true; props.withBreadcrumbs = true; state.showSearchBar = false"
+            />
+        </xpath>
+    </t>
+</templates>

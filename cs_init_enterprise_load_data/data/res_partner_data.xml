@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo noupdate='1'>
+
+<!-- Partners -->
+
+<record id="base.partner_admin" model="res.partner">
+  <field name="name">Administrador</field>
+  <field name="type">contact</field>
+  <field name="email">info@cloudia.solutions</field>
+  <field name="is_company" eval="False"/>
+  <field name="company_type">person</field>
+  <field name="parent_id" ref="base.main_company"/>
+  <field name="image_1920" type="base64" file="cs_init_enterprise_config/static/src/img/LED-X.png"/>
+  <field name="country_id" ref="base.pe"/>
+  <field name="state_id" ref="base.state_pe_15"/>
+  <field name="lang">en_US</field>
+</record>
+
+<record id="res_partner_xmarts" model="res.partner">
+ <field name="name">Cloudia S.A.C.</field>
+ <field name="type">contact</field>
+ <field name="is_company" eval="True"/>
+ <field name="company_type">company</field>
+ <field name="email">info@cloudia.solutions</field>
+ <field name="city">Lima</field>
+ <field name="country_id" ref="base.pe"/>
+ <field name="state_id" ref="base.state_pe_15"/>
+ <field name="website">http://cloudia.solutions</field>
+ <field name="vat">20607640212</field>
+ <field name="image_1920" type="base64" file="cs_init_enterprise_config/static/src/img/logo_xmarts.png"/>
+ <field name="lang">es_PE</field>
+</record>
+
+<record id="res_partner_sunat" model="res.partner">
+ <field name="name">SUPERINTENDENCIA NACIONAL DE ADUANAS Y DE ADMINISTRACION TRIBUTARIA - SUNAT</field>
+ <field name="type">contact</field>
+ <field name="is_company" eval="True"/>
+ <field name="company_type">company</field>
+ <field name="city">Lima</field>
+ <field name="country_id" ref="base.pe"/>
+ <field name="state_id" ref="base.state_pe_15"/>
+ <field name="website">http://www.sunat.gob.pe</field>
+ <field name="vat">20131312955</field>
+ <field name="image_1920" type="base64" file="cs_init_enterprise_config/static/src/img/logo_xmarts.png"/>
+ <field name="lang">es_PE</field>
+</record>
+
+</odoo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo>
+  <data>
+    <template id="assets_backend" name="Sticky Header" inherit_id="web.assets_backend">
+      <xpath expr=".">
+        <link rel="stylesheet" href="/cs_init_enterprise_config/static/src/scss/list_view_sticky_header.scss"/>
+      </xpath>
+    </template>
+  </data>
+</odoo>

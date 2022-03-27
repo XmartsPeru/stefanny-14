@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo noupdate='1'>
+
+  <function model="ir.default" name="set" eval="('res.partner', 'lang', 'es_PE')"/>
+  <function model="ir.default" name="set" eval="('res.partner', 'state_id', 1160)"/>
+  <function model="ir.default" name="set" eval="('res.users', 'lang', 'es_PE')"/>
+  <function model="ir.default" name="set" eval="('res.users', 'notification_type', 'inbox')"/>
+
+</odoo>

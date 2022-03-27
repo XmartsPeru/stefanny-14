@@ -1,0 +1,216 @@
+/**
+Part of Odoo Module Developed by Cloudia S.A.C. | http://cloudia.solutions | <info@cloudia.solutions>
+Copyright (c) 2021 Cloudia S.A.C.
+See LICENSE and COPYRIGHT files for full copyright and licensing details.
+*/
+
+$btn-color: #00A09D;
+
+@media screen and (max-width: 768px) {
+    .o_drop_shadow {
+        -webkit-box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.35);
+        -moz-box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.35);
+        box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.35);
+    }
+    .o_floating_action_button {
+        @extend .o_drop_shadow;
+        margin: 3px;
+    }
+
+    .o_circle_icon_button {
+        margin: 7px;
+        border-radius: 50%;
+        color: transparent;
+        height: 50px;
+        width: 50px;
+
+        &.btn-secondary {
+            background: white;
+            border: 1px #cccccc solid;
+            &:before {
+                color: $btn-color;
+            }
+        }
+        &.btn-primary {
+            &:before {
+                color: white;
+            }
+        }
+        &:before {
+            font-size: 1.75rem;
+            line-height: 38px;
+            font-family: FontAwesome;
+        }
+    }
+
+    .o_control_panel {
+        .breadcrumb > li.o_back_button:before {
+            font-size: 2rem;
+        }
+    }
+    .o_action:not(.o_graph_controller):not(.o_pivot_controller):not(.o_gantt_controller) {
+        .o_web_xmpe_fab {
+            position: fixed;
+            z-index: 999;
+            right: 15px;
+            bottom: 15px;
+            width: min-content;
+            .o_cp_buttons {
+                button {
+                    @extend .o_floating_action_button;
+                }
+                .o-kanban-button-new {
+                    @extend .o_circle_icon_button;
+                    &:before {
+                        content: "\f067";
+                    }
+                }
+                .o_form_buttons_view, .o_form_buttons_edit, .o_list_buttons{
+                    button {
+                        @extend .o_circle_icon_button;
+                        &:before {
+                            content: "\f067";
+                        }
+                        &.o_form_button_create  {
+                            &:before {
+                                content: "\f067";
+                            }
+                        }
+                        &.o_form_button_edit  {
+                            &:before {
+                                content: "\f040";
+                            }
+                        }
+                        &.o_form_button_save  {
+                            &:before {
+                                content: "\f00c";
+                            }
+                        }
+                        &.o_form_button_cancel  {
+                            &:before {
+                                content: "\f00d";
+                            }
+                        }
+                    }
+                }
+                .dropdown {
+
+                    .dropdown-toggle {
+                        @extend .o_floating_action_button;
+                        @extend .o_circle_icon_button;
+                        &[aria-expanded=true] {
+                            &:before {
+                                content: "\f00d";
+                            }
+                        }
+                        &[aria-expanded=false] {
+                            &:before {
+                                content: "\f067";
+                            }
+                        }
+                    }
+                    .dropdown-menu {
+                        width: max-content;
+                        max-width: max-content;
+                        position: absolute;
+                        top: 0;
+                        left: 360px !important;
+                        background: none;
+                        border: none;
+                        transform: translate(calc(-100% + 50px), -100%) !important;
+                        display: block;
+                        overflow: hidden;
+                        -webkit-transition-duration: 0.25s;
+                        transition-duration: 0.25s;
+                        box-shadow: none;
+                        padding: 7px;
+                        &.show {
+                            left: 0 !important;
+                        }
+                        button {
+                            @extend .o_floating_action_button;
+                            width: 100%;
+                            min-width: fit-content;
+                            padding-top: 10px;
+                            padding-bottom: 10px;
+                            margin-top: 7px;
+                            margin-bottom: 7px;
+                        }
+                    }
+                }
+            }
+        }
+        .o_control_panel {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            box-sizing: border-box;
+            .o_cp_top, .o_cp_bottom {
+                flex: 1 1 0;
+                max-width: 100%;
+            }
+            .o_cp_bottom_right {
+                .o_pager {
+                    float: right;
+                }
+            }
+        }
+    }
+
+    .o_action {
+        .o_control_panel {
+            .o_cp_searchview {
+                @extend .o_floating_action_button;
+                @extend .o_circle_icon_button;
+                transition-duration: 0.25s;
+                background: white;
+                opacity: 0.7;
+                z-index: 900;
+                right: 15px;
+                bottom: 79px;
+                position: fixed;
+                .o_searchview {
+                    margin: auto;
+                    text-align: center;
+                    button {
+                        &:before {
+                            color: $btn-color;
+                            font-size: 1.75rem;
+                            line-height: 42px;
+                        }
+                    }
+                }
+
+                &.o_searchview_quick {
+                    @extend .o_drop_shadow;
+                    border-radius: 3px;
+                    width: calc(100% - 30px);
+                    padding: 10px;
+                    z-index: 999;
+                    background: white;
+                    border: 1px solid #ccc;
+                    font-size: 1.2rem;
+                    height: auto;
+                    opacity: 1;
+                }
+            }
+        }
+    }
+
+    .o_main_navbar {
+        .o_menu_brand {
+            float: left;
+            color: white !important;
+        }
+    }
+}
+
+.o_activity_view {
+    overflow: auto;
+}
+
+.o_form_controller {
+    .o_cp_searchview {
+        display: none;
+    }
+}

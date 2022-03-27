@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo>
+
+    <!-- ir.ui.menu -->
+
+    <record id="mail.menu_root_discuss" model="ir.ui.menu">
+        <field name="sequence">1</field>
+    </record>
+
+    <record id="hr.menu_hr_root" model="ir.ui.menu">
+        <field name="sequence">2</field>
+    </record>
+
+    <record id="calendar.mail_menu_calendar" model="ir.ui.menu">
+        <field name="sequence">3</field>
+    </record>
+
+    <record id="contacts.menu_contacts" model="ir.ui.menu">
+        <field name="sequence">4</field>
+    </record>
+
+    <record id="note.menu_note_notes" model="ir.ui.menu">
+        <field name="sequence">5</field>
+    </record>
+
+    <record id="base.menu_board_root" model="ir.ui.menu">
+        <field name="sequence">6</field>
+    </record>
+
+    <record id="im_livechat.menu_livechat_root" model="ir.ui.menu">
+        <field name="sequence">7</field>
+    </record>
+
+    <record id="base.menu_management" model="ir.ui.menu">
+        <field name="sequence">510</field>
+    </record>
+
+    <record id="base.menu_administration" model="ir.ui.menu">
+        <field name="sequence">520</field>
+    </record>
+
+    <record id="utm.menu_link_tracker_root" model="ir.ui.menu">
+        <field name="sequence">530</field>
+    </record>
+
+    <record id="base.menu_tests" model="ir.ui.menu">
+        <field name="sequence">1000000</field>
+    </record>
+
+</odoo>

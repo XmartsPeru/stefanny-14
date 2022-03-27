@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo noupdate='1'>
+
+<!-- res.company -->
+
+  <record id="base.main_company" model="res.company">
+    <field name="name">XMARTS PERU S.A.C.</field>
+    <field name="country_id" ref="base.pe"/>
+    <field name="currency_id" ref="base.PEN"/>
+    <field name="vat">20607640212</field>
+    <field name="logo" type="base64" file="cs_init_enterprise_config/static/src/img/logo_xmarts.png"/>
+    <field name="favicon" type="base64" file="cs_init_enterprise_config/static/src/img/iso_xmarts.png"/>
+  </record>
+
+</odoo>

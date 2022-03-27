@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo>
+    <data>
+        <record model="ir.module.category" id="module_category_xmarts">
+            <field name="name">Xmarts Addons</field>
+            <field name="sequence">100</field>
+        </record>
+
+        <record model="ir.module.category" id="module_category_xmarts_l10n_pe">
+            <field name="name">Xmarts Localization</field>
+            <field name="sequence">101</field>
+        </record>
+
+    </data>
+</odoo>

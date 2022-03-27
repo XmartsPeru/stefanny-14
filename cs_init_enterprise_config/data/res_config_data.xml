@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo noupdate='1'>
+
+<!-- res.config.settings -->
+
+<record id="xmarts_odoo" model="res.config.settings">
+
+  <!-- Settings -->
+  <field name="digest_emails" eval="False"/>
+  <field name="unsplash_access_key">DGv3fRThsojOhFUg1JMfBTsEnjGILt8O1C5eCQHbYTs</field>
+
+</record>
+
+<function model="res.config.settings" name="execute">
+   <value model="res.config.settings"
+          search="[('id', '=', ref('xmarts_odoo'))]"/>
+</function>
+
+</odoo>

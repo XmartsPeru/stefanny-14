@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo noupdate='1'>
+
+<!-- Banks -->
+
+<record id="res_bank_AZTKPEPL" model="res.bank">
+  <field name="name">Banco Azteca</field>
+  <field name="bic">AZTKPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_BCONPEPL" model="res.bank">
+  <field name="name">BBVA</field>
+  <field name="bic">BCONPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_BCPLPEPL" model="res.bank">
+  <field name="name">Banco de Crédito del Perú</field>
+  <field name="bic">BCPLPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="True"/>
+</record>
+
+<record id="res_bank_BDCMPEPL" model="res.bank">
+  <field name="name">Banco de Comercio</field>
+  <field name="bic">BDCMPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_BIFSPEPL" model="res.bank">
+  <field name="name">Banco Interamericano de Finanzas (BanBif)</field>
+  <field name="bic">BIFSPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_BINPPEPL" model="res.bank">
+  <field name="name">Interbank</field>
+  <field name="bic">BINPPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_BSAPPEPL" model="res.bank">
+  <field name="name">Banco Santander Perú</field>
+  <field name="bic">BSAPPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_BSNCPEPL" model="res.bank">
+  <field name="name">Banco de la Nación</field>
+  <field name="bic">BSNCPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="True"/>
+</record>
+
+<record id="res_bank_BSUDPEPL" model="res.bank">
+  <field name="name">Scotiabank</field>
+  <field name="bic">BSUDPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_CITIPEPL" model="res.bank">
+  <field name="name">Citibank Perú</field>
+  <field name="bic">CITIPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_FINAPEPL" model="res.bank">
+  <field name="name">Banco Pichincha</field>
+  <field name="bic">FINAPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+<record id="res_bank_HBPEPEPL" model="res.bank">
+  <field name="name">Banco GNB Perú</field>
+  <field name="bic">HBPEPEPL</field>
+  <field name="country" ref="base.pe"/>
+  <field name="active" eval="False"/>
+</record>
+
+</odoo>

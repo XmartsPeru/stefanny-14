@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Part of Odoo - Module Developed by Cloudia Solutions S.A.C. | http://cloudia.pe | <info@cloudia.pe> -->
+<!-- Copyright (c) 2021-Present Cloudia Solutions S.A.C. -->
+<!-- See LICENSE and COPYRIGHT files for full copyright and licensing details -->
+
+<odoo noupdate='1'>
+
+<!-- Odoo -->
+
+<delete model="res.partner.industry" id="base.res_partner_industry_A"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_B"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_C"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_D"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_E"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_F"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_G"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_H"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_I"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_J"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_K"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_L"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_M"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_N"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_O"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_P"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_Q"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_R"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_S"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_T"/>
+<delete model="res.partner.industry" id="base.res_partner_industry_U"/>
+
+<!-- CIIU -->
+
+<record id="ind_9000" model="res.partner.industry">
+ <field name="name">ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO</field>
+ <field name="full_name">9000 - ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO </field>
+</record>
+
+<record id="ind_7911" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE AGENCIAS DE VIAJES</field>
+ <field name="full_name">7911 - ACTIVIDADES DE AGENCIAS DE VIAJES</field>
+</record>
+
+<record id="ind_5510" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE ALOJAMIENTO PARA ESTANCIAS CORTAS</field>
+ <field name="full_name">5510 - ACTIVIDADES DE ALOJAMIENTO PARA ESTANCIAS CORTAS</field>
+</record>
+
+<record id="ind_162" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE APOYO A LA GANADERÍA</field>
+ <field name="full_name">162 - ACTIVIDADES DE APOYO A LA GANADERÍA</field>
+</record>
+
+<record id="ind_7110" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE ARQUITECTURA E INGENIERÍA Y ACTIVIDADES CONEXAS DE CONSULTORÍA TÉCNICA</field>
+ <field name="full_name">7110 - ACTIVIDADES DE ARQUITECTURA E INGENIERÍA Y ACTIVIDADES CONEXAS DE CONSULTORÍA TÉCNICA</field>
+</record>
+
+<record id="ind_9312" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE CLUBES DEPORTIVOS</field>
+ <field name="full_name">9312 - ACTIVIDADES DE CLUBES DEPORTIVOS</field>
+</record>
+
+<record id="ind_7020" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE CONSULTORÍA DE GESTIÓN</field>
+ <field name="full_name">7020 - ACTIVIDADES DE CONSULTORÍA DE GESTIÓN</field>
+</record>
+
+<record id="ind_6920" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE CONTABILIDAD, TENEDURÍA DE LIBROS Y AUDITORÍA; ASESORAMIENTO EN MATERIA DE IMPUESTOS</field>
+ <field name="full_name">6920 - ACTIVIDADES DE CONTABILIDAD, TENEDURÍA DE LIBROS Y AUDITORÍA; ASESORAMIENTO EN MATERIA DE IMPUESTOS</field>
+</record>
+
+<record id="ind_8411" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE LA ADMINISTRACIÓN PÚBLICA EN GENERAL</field>
+ <field name="full_name">8411 - ACTIVIDADES DE LA ADMINISTRACIÓN PÚBLICA EN GENERAL</field>
+</record>
+
+<record id="ind_8620" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE MÉDICOS Y ODONTÓLOGOS</field>
+ <field name="full_name">8620 - ACTIVIDADES DE MÉDICOS Y ODONTÓLOGOS</field>
+</record>
+
+<record id="ind_9499" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE OTRAS ASOCIACIONES N.C.P.</field>
+ <field name="full_name">9499 - ACTIVIDADES DE OTRAS ASOCIACIONES N.C.P.</field>
+</record>
+
+<record id="ind_5610" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE RESTAURANTES Y DE SERVICIO MÓVIL DE COMIDAS</field>
+ <field name="full_name">5610 - ACTIVIDADES DE RESTAURANTES Y DE SERVICIO MÓVIL DE COMIDAS</field>
+</record>
+
+<record id="ind_8020" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE SERVICIO DE SISTEMAS DE SEGURIDAD</field>
+ <field name="full_name">8020 - ACTIVIDADES DE SERVICIO DE SISTEMAS DE SEGURIDAD</field>
+</record>
+
+<record id="ind_1812" model="res.partner.industry">
+ <field name="name">ACTIVIDADES DE SERVICIOS RELACIONADAS CON LA IMPRESIÓN</field>
+ <field name="full_name">1812 - ACTIVIDADES DE SERVICIOS RELACIONADAS CON LA IMPRESIÓN</field>
+</record>
+
+<record id="ind_6810" model="res.partner.industry">
+ <field name="name">ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS</field>
+ <field name="full_name">6810 - ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS</field>
+</record>
+
+<record id="ind_6910" model="res.partner.industry">
+ <field name="name">ACTIVIDADES JURÍDICAS</field>
+ <field name="full_name">6910 - ACTIVIDADES JURÍDICAS</field>
+</record>
+
+<record id="ind_4100" model="res.partner.industry">
+ <field name="name">CONSTRUCCIÓN DE EDIFICIOS</field>
+ <field name="full_name">4100 - CONSTRUCCIÓN DE EDIFICIOS</field>
+</record>
+
+<record id="ind_111" model="res.partner.industry">
+ <field name="name">CULTIVO DE CEREALES (EXCEPTO ARROZ), LEGUMBRES Y SEMILLAS OLEAGINOSAS</field>
+ <field name="full_name">111 - CULTIVO DE CEREALES (EXCEPTO ARROZ), LEGUMBRES Y SEMILLAS OLEAGINOSAS </field>
+</record>
+
+<record id="ind_1071" model="res.partner.industry">
+ <field name="name">ELABORACIÓN DE PRODUCTOS DE PANADERÍA</field>
+ <field name="full_name">1071 - ELABORACIÓN DE PRODUCTOS DE PANADERÍA</field>
+</record>
+
+<record id="ind_8510" model="res.partner.industry">
+ <field name="name">ENSEÑANZA PRE-ESCOLAR Y PRIMARIA.</field>
+ <field name="full_name">8510</field>
+</record>
+
+<record id="ind_8521" model="res.partner.industry">
+ <field name="name">ENSEÑANZA SECUNDARIA DE FORMACIÓN GENERAL.</field>
+ <field name="full_name">8521</field>
+</record>
+
+<record id="ind_8530" model="res.partner.industry">
+ <field name="name">ENSEÑANZA SUPERIOR.</field>
+ <field name="full_name">8530</field>
+</record>
+
+<record id="ind_1520" model="res.partner.industry">
+ <field name="name">FABRICACIÓN DE CALZADO</field>
+ <field name="full_name">1520</field>
+</record>
+
+<record id="ind_3100" model="res.partner.industry">
+ <field name="name">FABRICACIÓN DE MUEBLES</field>
+ <field name="full_name">3100</field>
+</record>
+
+<record id="ind_1410" model="res.partner.industry">
+ <field name="name">FABRICACIÓN DE PRENDAS DE VESTIR, EXCEPTO PRENDAS DE PIEL</field>
+ <field name="full_name">1410</field>
+</record>
+
+<record id="ind_2511" model="res.partner.industry">
+ <field name="name">FABRICACIÓN DE PRODUCTOS METÁLICOS PARA USO ESTRUCTURAL</field>
+ <field name="full_name">2511</field>
+</record>
+
+<record id="ind_1811" model="res.partner.industry">
+ <field name="name">IMPRESIÓN</field>
+ <field name="full_name">1811</field>
+</record>
+
+<record id="ind_4321" model="res.partner.industry">
+ <field name="name">INSTALACIONES ELÉCTRICAS</field>
+ <field name="full_name">4321</field>
+</record>
+
+<record id="ind_7220" model="res.partner.industry">
+ <field name="name">INVESTIGACIONES Y DESARROLLO EXPERIMENTAL EN EL CAMPO DE LAS CIENCIAS SOCIALES Y LAS HUMANIDADES.</field>
+ <field name="full_name">7220</field>
+</record>
+
+<record id="ind_4520" model="res.partner.industry">
+ <field name="name">MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES</field>
+ <field name="full_name">4520</field>
+</record>
+
+<record id="ind_8690" model="res.partner.industry">
+ <field name="name">OTRAS ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA</field>
+ <field name="full_name">8690</field>
+</record>
+
+<record id="ind_8129" model="res.partner.industry">
+ <field name="name">OTRAS ACTIVIDADES DE LIMPIEZA DE EDIFICIOS E INSTALACIONES INDUSTRIALES</field>
+ <field name="full_name">8129</field>
+</record>
+
+<record id="ind_8299" model="res.partner.industry">
+ <field name="name">OTRAS ACTIVIDADES DE SERVICIOS DE APOYO A LAS EMPRESAS N.C.P</field>
+ <field name="full_name">8299</field>
+</record>
+
+<record id="ind_4799" model="res.partner.industry">
+ <field name="name">OTRAS ACTIVIDADES DE VENTA AL POR MENOR NO REALIZADAS EN COMERCIOS, PUESTOS DE VENTA O MERCADOS</field>
+ <field name="full_name">4799</field>
+</record>
+
+<record id="ind_6209" model="res.partner.industry">
+ <field name="name">OTROS SERVICIOS INFORMÁTICOS Y DE TECNOLOGÍAS DE LA INFORMACIÓN.</field>
+ <field name="full_name">6209</field>
+</record>
+
+<record id="ind_8549" model="res.partner.industry">
+ <field name="name">OTROS TIPOS DE ENSEÑANZA N.C.P.</field>
+ <field name="full_name">8549</field>
+</record>
+
+<record id="ind_4922" model="res.partner.industry">
+ <field name="name">OTROS TIPOS DE TRANSPORTE NO REGULAR DE PASAJEROS POR VÍA TERRESTRE.</field>
+ <field name="full_name">4922</field>
+</record>
+
+<record id="ind_9602" model="res.partner.industry">
+ <field name="name">PELUQUERÍA Y OTROS TRATAMIENTOS DE BELLEZA</field>
+ <field name="full_name">9602</field>
+</record>
+
+<record id="ind_6311" model="res.partner.industry">
+ <field name="name">PROCESAMIENTO DE DATOS, HOSPEDAJE Y ACTIVIDADES CONEXAS</field>
+ <field name="full_name">6311</field>
+</record>
+
+<record id="ind_6201" model="res.partner.industry">
+ <field name="name">PROGRAMACIÓN INFORMÁTICA</field>
+ <field name="full_name">6201</field>
+</record>
+
+<record id="ind_6020" model="res.partner.industry">
+ <field name="name">PROGRAMACIÓN Y TRANSMISIONES DE TELEVISIÓN</field>
+ <field name="full_name">6020</field>
+</record>
+
+<record id="ind_7310" model="res.partner.industry">
+ <field name="name">PUBLICIDAD.</field>
+ <field name="full_name">7310</field>
+</record>
+
+<record id="ind_9522" model="res.partner.industry">
+ <field name="name">REPARACIÓN DE APARATOS DE USO DOMÉSTICO Y EQUIPO DOMÉSTICO Y DE JARDINERÍA</field>
+ <field name="full_name">9522</field>
+</record>
+
+<record id="ind_9511" model="res.partner.industry">
+ <field name="name">REPARACIÓN DE ORDENADORES Y EQUIPO PERIFÉRICO</field>
+ <field name="full_name">9511</field>
+</record>
+
+<record id="ind_4330" model="res.partner.industry">
+ <field name="name">TERMINACIÓN Y ACABADO DE EDIFICIOS</field>
+ <field name="full_name">4330</field>
+</record>
+
+<record id="ind_4923" model="res.partner.industry">
+ <field name="name">TRANSPORTE DE CARGA POR CARRETERA.</field>
+ <field name="full_name">4923</field>
+</record>
+
+<record id="ind_4921" model="res.partner.industry">
+ <field name="name">TRANSPORTE URBANO Y SUBURBANO DE PASAJEROS POR VÍA TERRESTRE</field>
+ <field name="full_name">4921</field>
+</record>
+
+<record id="ind_4610" model="res.partner.industry">
+ <field name="name">VENTA AL POR MAYOR A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA.</field>
+ <field name="full_name">4610</field>
+</record>
+
+<record id="ind_4630" model="res.partner.industry">
+ <field name="name">VENTA AL POR MAYOR DE ALIMENTOS, BEBIDAS Y TABACO.</field>
+ <field name="full_name">4630</field>
+</record>
+
+<record id="ind_4663" model="res.partner.industry">
+ <field name="name">VENTA AL POR MAYOR DE MATERIALES DE CONSTRUCCIÓN, ARTÍCULOS DE FERRETERÍA Y EQUIPO Y MATERIALES DE FONTANERÍA Y CALEFACCIÓN.</field>
+ <field name="full_name">4663</field>
+</record>
+
+<record id="ind_4641" model="res.partner.industry">
+ <field name="name">VENTA AL POR MAYOR DE PRODUCTOS TEXTILES, PRENDAS DE VESTIR Y CALZADO.</field>
+ <field name="full_name">4641</field>
+</record>
+
+<record id="ind_4690" model="res.partner.industry">
+ <field name="name">VENTA AL POR MAYOR NO ESPECIALIZADA.</field>
+ <field name="full_name">4690</field>
+</record>
+
+<record id="ind_4721" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE ALIMENTOS EN COMERCIOS ESPECIALIZADOS</field>
+ <field name="full_name">4721</field>
+</record>
+
+<record id="ind_4781" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE ALIMENTOS, BEBIDAS Y TABACO EN PUESTOS DE VENTA Y MERCADOS</field>
+ <field name="full_name">4781</field>
+</record>
+
+<record id="ind_4759" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE APARATOS ELÉCTRICOS DE USO DOMÉSTICO, MUEBLES, EQUIPO DE ILUMINACIÓN Y OTROS ENSERES DOMÉSTICOS EN COMERCIOS ESPECIALIZADOS</field>
+ <field name="full_name">4759</field>
+</record>
+
+<record id="ind_4752" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE ARTÍCULOS DE FERRETERÍA, PINTURAS Y PRODUCTOS DE VIDRIO EN ALMACENES ESPECIALIZADOS.</field>
+ <field name="full_name">4752</field>
+</record>
+
+<record id="ind_4730" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE COMBUSTIBLE PARA VEHÍCULOS AUTOMOTORES EN ALMACENES ESPECIALIZADOS.</field>
+ <field name="full_name">4730</field>
+</record>
+
+<record id="ind_4719" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE OTROS PRODUCTOS EN ALMACENES NO ESPECIALIZADOS.</field>
+ <field name="full_name">4719</field>
+</record>
+
+<record id="ind_4772" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE PRODUCTOS FARMACÉUTICOS Y MEDICINALES, COSMÉTICOS Y ARTÍCULOS DE TOCADOR EN ALMACENES ESPECIALIZADOS.</field>
+ <field name="full_name">4772</field>
+</record>
+
+<record id="ind_4751" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE PRODUCTOS TEXTILES EN COMERCIOS ESPECIALIZADOS</field>
+ <field name="full_name">4751</field>
+</record>
+
+<record id="ind_4753" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR DE TAPICES, ALFOMBRAS Y CUBRIMIENTOS PARA PAREDES Y PISOS EN COMERCIOS ESPECIALIZADOS</field>
+ <field name="full_name">4753</field>
+</record>
+
+<record id="ind_4711" model="res.partner.industry">
+ <field name="name">VENTA AL POR MENOR EN ALMACENES NO ESPECIALIZADOS CON SURTIDO COMPUESTO PRINCIPALMENTE DE ALIMENTOS, BEBIDAS Y TABACO.</field>
+ <field name="full_name">4711</field>
+</record>
+
+<record id="ind_4530" model="res.partner.industry">
+ <field name="name">VENTAS DE PARTES, PIEZAS Y ACCESORIOS DE VEHÍCULOS AUTOMOTORES.</field>
+ <field name="full_name">4530</field>
+</record>
+
+</odoo>
