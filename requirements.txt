@@ -1,4 +1,3 @@
 reactivex
 asyncio
-PIL
 urllib.request
