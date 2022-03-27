@@ -1,3 +1,2 @@
 reactivex
 asyncio
-urllib.request
